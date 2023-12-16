@@ -1,0 +1,9 @@
+{
+    "id": "great_file_manager",
+    "name": "Great File Manager",
+    "description": "Great File Manager is an Android file manager which uses Material You for a modern interface.",
+    "icon": "icon.png",
+    "brand_color": "#FF0000",
+    "file": "gfm_v2.apk",
+    "version": 2.61
+}

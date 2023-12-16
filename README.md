@@ -18,7 +18,7 @@
    - Paste the copied content into the file and edit it according to your creation's details.
    - Click on "Commit changes".
 
-4. **Upload Files**
+4. **Upload Files:**
    - Make sure you're in the `/repository/creations/<creation_name>` directory.
    - Drag & drop your creation's files, which can be a **.zip**, **.apk**, or **.img**.
    - Click on "Commit changes".

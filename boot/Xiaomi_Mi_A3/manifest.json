@@ -1,5 +1,6 @@
 {
-    "id": "boot_animations/Xiaomi_Mi_A3",
+    "id": "Xiaomi_Mi_A3",
+    "category": "boot",
     "name": "Xiaomi Mi A3 Boot Animation",
     "file": "bootanimation.zip"
 }

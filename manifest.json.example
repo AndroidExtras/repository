@@ -1,5 +1,6 @@
 {
     "id": "great_file_manager",
+    "category": "application",
     "name": "Great File Manager",
     "description": "Great File Manager is an Android file manager which uses Material You for a modern interface.",
     "icon": "icon.png",

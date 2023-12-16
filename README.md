@@ -12,14 +12,17 @@
    - [Click here](https://github.com/AndroidExtras/repository/new/base/creations) to open the file creation page.
    - Make sure the path follows this syntax:
    ```
-   /repository/creations/<creation_name>/manifest.json
+   /repository/<category_name>/<creation_name>/manifest.json
    ```
-   ![](https://github.com/AndroidExtras/repository/blob/base/assets/screenshots/file_path.png?raw=true)
+   > [!IMPORTANT]  
+   > Use one of the following categories otherwise your pull request **won't** be approved:
+   >
+   > `boot`, `recovery`, `module`, `rom`, `application`, `launcher`, `livewallpaper`,S `other`
    - Paste the copied content into the file and edit it according to your creation's details.
    - Click on "Commit changes".
 
 4. **Upload Files:**
-   - Make sure you're in the `/repository/creations/<creation_name>` directory.
+   - Make sure you're in the `/repository/<category_name>/<creation_name>` directory.
    - Drag & drop your creation's files, which can be a **.zip**, **.apk**, or **.img**.
    - Click on "Commit changes".
 

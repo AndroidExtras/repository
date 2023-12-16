@@ -12,7 +12,7 @@
    - [Click here](https://github.com/AndroidExtras/repository/new/base/creations) to open the file creation page.
    - Make sure the path follows this syntax:
    ```
-   /repository/<category_name>/<creation_name>/manifest.json
+   /<category_name>/<creation_name>/manifest.json
    ```
    > [!IMPORTANT]  
    > Use one of the following categories otherwise your pull request **won't** be approved:

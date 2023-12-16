@@ -14,10 +14,10 @@
    ```
    /<category_name>/<creation_name>/manifest.json
    ```
-   > [!IMPORTANT]  
-   > Use one of the following categories otherwise your pull request **won't** be approved:
-   >
-   > `boot`, `recovery`, `module`, `rom`, `application`, `launcher`, `livewallpaper`,S `other`
+> [!IMPORTANT]  
+> Use one of the following categories otherwise your pull request **won't** be approved:
+>
+> `boot`, `recovery`, `module`, `rom`, `application`, `launcher`, `livewallpaper`, `other`
    - Paste the copied content into the file and edit it according to your creation's details.
    - Click on "Commit changes".
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/AndroidExtras/repository/blob/base/assets/logo.png?raw=true" align="center" height="32" /></p>
+<p align="center"><img src="https://github.com/AndroidExtras/repository/blob/base/_assets/logo.png?raw=true" align="center" height="32" /></p>
 
 ## Submitting a creation
 1. **Fork the Repository:**
@@ -29,7 +29,7 @@
 5. **Open a Pull Request:**
    - [Click here](https://github.com/AndroidExtras/repository/compare) to open the pull request creation page.
    - Click the "compare across forks" link.
-   ![](https://github.com/AndroidExtras/repository/blob/base/assets/screenshots/compare_across_forks.png?raw=true)
+   ![](https://github.com/AndroidExtras/repository/blob/base/_assets/screenshots/compare_across_forks.png?raw=true)
    - Open the "head repository" dropdown and select your forked repository.
-   ![](https://github.com/AndroidExtras/repository/blob/base/assets/screenshots/head_repository.png?raw=true)
+   ![](https://github.com/AndroidExtras/repository/blob/base/_assets/screenshots/head_repository.png?raw=true)
    - Click the "Create pull request" button and wait for us to approve merge it.

@@ -1,5 +1,9 @@
 <p align="center"><img src="https://github.com/AndroidExtras/repository/blob/base/_assets/logo.png?raw=true" align="center" height="32" /></p>
 
+> [!WARNING]  
+> This repository **no longer** accepts new submissions.
+>
+
 ## Submitting a creation
 1. **Fork the Repository:**
    - Click the "Fork" button in the top-right corner to create a copy of the repository under your GitHub account.
